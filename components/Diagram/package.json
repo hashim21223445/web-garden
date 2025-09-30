@@ -46,7 +46,7 @@
   },
   "dependencies": {
     "mermaid": "^9.1.6",
-    "puppeteer": "^18.0.2",
+    "puppeteer": "^24.10.2",
     "unist-util-visit": "^4.1.0"
   },
   "devDependencies": {
