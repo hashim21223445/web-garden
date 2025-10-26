@@ -19,7 +19,7 @@
 		"@julian_cataldo/astro-resets": "link:../app/Resets",
 		"@wbmnky/license-report-generator": "^2.1.3",
 		"asciinema-player": "^3.2.0",
-		"astro": "2.1.3",
+		"astro": "4.0.0",
 		"astro-base-document": "link:../app/BaseDocument",
 		"astro-breakpoints": "link:../app/Breakpoints",
 		"astro-color-mode": "link:../app/ColorMode",
