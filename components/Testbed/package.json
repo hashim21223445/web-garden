@@ -48,8 +48,8 @@
   },
   "dependencies": {
     "@rjsf/core": "5.0.0-beta.10",
-    "@rjsf/utils": "5.0.0-beta.10",
-    "@rjsf/validator-ajv6": "5.0.0-beta.10",
+    "@rjsf/utils": "5.0.0",
+    "@rjsf/validator-ajv6": "5.24.13",
     "clsx": "^1.2.1",
     "marked": "^4.1.1",
     "react": "^18.2.0",
